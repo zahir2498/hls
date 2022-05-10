@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:54,Sukan
+#EXTVLCOPT:network-caching=1000
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
