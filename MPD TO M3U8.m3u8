@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:5
+
+#EXT-X-MEDIA:TYPE=LIVE,AUTOSELECT=YES,URI="https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd"
